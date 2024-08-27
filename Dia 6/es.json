@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "pedro",
+        "cargo": "trainer"
+    },
+    {
+        "nombre": "wilmer",
+        "cargo": "camper"
+    },
+    {
+        "nombre": "steven",
+        "cargo": "coordinador"
+    }
+]
