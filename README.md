@@ -18,6 +18,7 @@ En este documento podrás observar que hemos sacado de una API los pokemones y l
 
 ### Estructura del proyecto
 Aquí podrás ver lo utilizado para realizar el proyecto.
+
 ![Captura de pantalla (4)](https://github.com/user-attachments/assets/92f4a0c5-6784-45d8-a81f-4c71e71b7687)
 
 ### Características
@@ -33,6 +34,7 @@ En este documento pudimos poder a prueba como obtener información de un archivo
 
 ## Estructura del proyecto
 Aquí podrás observar lo utilizado para realizar el proyecto.
+
 ![Captura de pantalla (5)](https://github.com/user-attachments/assets/735ab904-68dd-480e-964f-3c136bcf0452)
 
 ### Características
@@ -46,6 +48,7 @@ En este documento podrás obseervar que intentamos y logramos extraer informaci�
 
 ### Estructura del proyecto
 Aquí podrás observar todo lo utilizado para realizar el proyecto.
+
 ![Captura de pantalla (6)](https://github.com/user-attachments/assets/b523b9b1-6724-494b-aeaf-cbcf748cec75)
 
 ### Características
@@ -61,6 +64,7 @@ En este documento como podrás ver creamos unos elementos personalizados.
 
 ### Estructura del proyecto
 Aquí podrás observar todo lo utilizado para realizar el proyecto.
+
 ![Captura de pantalla (7)](https://github.com/user-attachments/assets/d83f4469-ae04-4418-bf3d-5490a3592583)
 
 ### Características
